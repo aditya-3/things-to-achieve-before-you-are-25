@@ -1,11 +1,13 @@
 # Things To Achieve Before You Are 25!
 
 ```js
-function main(){
+//ES6
+
+const main = () => {
     thingsToachieveBeforeYouAre25();
 }
 
-function thingsToachieveBeforeYouAre25(){
+const thingsToachieveBeforeYouAre25 = () => {
     learnToCook();
     makeFriends();
     learnToSayNO();
@@ -17,67 +19,67 @@ function thingsToachieveBeforeYouAre25(){
     findAJobYouLove();
     cultivateReadingHabit();
     endShittyRelationships();
-    learnDifferenceBetween();
+    learnDifferenceBetween("Love", "Lust", "Infatuation");
     getFit();
     exploreTheCityYouLiveIn();
 }
 
-function learnToCook(){
+const learnToCook = () => {
     const atleastBasics = true;
 }
 
-function makeFriends(){
+const makeFriends = () => {
     const forLifetime = true;
 }
 
-function learnToSayNO(){
+const learnToSayNO = () => {
     //TODO: need more info    
 }
 
-function getDriversLisence(){
+const getDriversLisence = () => {
     const twoWheeler = true;
     const fourWheeler = true;
 }
 
-function learnToLoveYourself(){
+const learnToLoveYourself = () => {
     const avoidInferiorityComplex = true;
     const haveSelfRespect = true;
     //TODO: expecting more
 }
 
-function becomeFinanciallyIndependent(){
+const becomeFinanciallyIndependent = () => {
     const supportYourFamily = true;
 }
 
-function planASoloTrip(){
+const planASoloTrip = () => {
     const longTrip = true;
 }
 
-function washYourClothesYourself(){
+const washYourClothesYourself = () => {
     const dontDepend = true;
 }
 
-function findAJobYouLove(){
+const findAJobYouLove = () => {
     //TODO: define this
 }
 
-function cultivateReadingHabit(){
+const cultivateReadingHabit = () => {
     //TODO: how to ?
 }
 
-function endShittyRelationships(){
+const endShittyRelationships = () => {
     //FIXME: need better definition
 }
 
-function learnDifferenceBetween(a, b, ...){
+const learnDifferenceBetween = (a, b, ...) => {
     //will have side effects, so kept abstract
 }
 
-function getFit(){
+const getFit = () => {
     const throughPhysicalExercise = true;
 }
 
-function exploreTheCityYouLiveIn(){
+const exploreTheCityYouLiveIn = () => {
     const withFriends = true;
 }
 ```
