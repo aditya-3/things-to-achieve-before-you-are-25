@@ -1,10 +1,10 @@
 # Things To Achieve Before You Are 25!
 <big><pre>
-[thingsToachieveBeforeYouAre25()](#thingsToachieveBeforeYouAre25);</pre></big>
+[thingsToAchieveBeforeYouAre25()](#thingsToAchieveBeforeYouAre25);</pre></big>
 
-<a name="thingsToachieveBeforeYouAre25"></a>
+<a name="thingsToAchieveBeforeYouAre25"></a>
 <big><pre>
-**const** thingsToachieveBeforeYouAre25 = () => {
+**const** thingsToAchieveBeforeYouAre25 = () => {
     &nbsp;&nbsp;&nbsp;&nbsp;[learnToCook](#learnToCook)();
     &nbsp;&nbsp;&nbsp;&nbsp;[makeFriends](#makeFriends)();
     &nbsp;&nbsp;&nbsp;&nbsp;[learnToSayNO](#learnToSayNO)();
